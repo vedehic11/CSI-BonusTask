@@ -1,0 +1,191 @@
+/* NavBar */
+.nav-bar{
+  display: flex;
+  margin: 20px;
+}
+#heading{
+  width: 30%;
+  font-size: 25px;
+  font-weight: bold;
+}
+#sections a{
+  margin-right: 45px;
+  font-size: 20px;
+}
+#sections button{
+  position: absolute;
+  right: 5px;
+  border-radius: 30px;
+  background-color: rgb(51, 187, 94);
+  color: white;
+  border: 0px;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+}
+/* Section 1 */
+.Sec1{
+  display: flex;
+}
+.Sec1-1{
+  width: 50%;
+  height: 43.43rem;
+  padding: 30px;
+  background-color: rgba(219, 232, 233, 0.621);
+  margin-top: 20px;
+  border-top-left-radius: 50px;
+}
+#Sec1-head{
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 5rem;
+  font-weight: 540;
+  margin-bottom: 35px;
+}
+#Sec1-p {
+  width:60%;
+  padding: 0rem 5rem 5rem 5rem;
+  font-size: 20px;
+  
+}
+.Sec1-1 a{
+  padding-left: 5rem;
+  font-size: 20px;
+
+}
+.Sec1 img{
+  position: absolute;
+  right: 0px;
+  padding: 20px 5px 20px 0px;
+  width: 50%;
+}
+/* Section 2*/
+.Sec2{
+  padding-left: 3rem;
+  width: 100%;
+}
+#Sec2-head{
+  font-size: 50px;
+  margin-bottom: -5px;
+}
+#Sec2-p{
+  width:40%;
+}
+.flexxing{
+  display: flex;
+}
+.Sec2 button{
+  position: absolute;
+  right: 5px;
+  border-radius: 30px;
+  background-color: rgb(51, 187, 94);
+  color: white;
+  border: 0px;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+}
+.Sec3{
+  display: flex;
+  justify-content: space-evenly;
+}
+.sec-3-1 , .sec-3-2 , .sec-3-3{
+  background-color: rgba(219, 232, 233, 0.621);
+  border-radius: 25px;
+}
+.anchor{
+  color: rgb(51, 187, 94);
+}
+.hName{
+  font-size: 27px;
+  margin-top: 7px;
+}
+.hotelCont{
+  padding: 10px;
+}
+
+
+/* sec 4 */
+
+.sec4{
+  margin-top: 60px;
+  margin-left: 40px;
+  display: flex;
+  margin-right: 40px;
+}
+
+.sec4-head{
+  font-size: 45px;
+  margin-bottom: -10px;
+  font-weight: 530;
+  
+}
+.sec4-1{
+  width: 40%;
+  margin: 0px 20px 20px 20px;
+}
+.sec4 button{
+  border-radius: 30px;
+  background-color: rgb(51, 187, 94);
+  color: white;
+  border: 0px;
+  font-size: 15px;
+  padding: 15px 20px 15px 20px;
+  margin: 25px 0px 25px 0px;
+}
+.service1 , .service2{
+  
+  display: flex;    
+  text-align: center;
+  
+}
+
+.services .icon{
+  font-size: 20px;
+  border-radius: 10px;
+  height: 9rem;
+  width:9rem;
+  margin: 10px;
+  position: relative;
+  padding: 10px 15px 10px 15px;
+  box-shadow: 0.3px 0.3px 0px 1px rgba(191, 191, 191, 0.605);
+ 
+}
+.services .i{
+  font-size: 40px;
+  position: relative;
+  top: 40px;
+  color:  rgb(51, 187, 94);
+}
+.services p{
+  position: relative;
+  top: 30px;
+}
+
+
+/* Footer */
+
+.footer-para{
+  width: 50%;
+  margin-top: 3rem;
+}
+.footer{
+ 
+  display: flex;
+  justify-content: space-around;
+}
+.ul p{
+  font-size: 25px;
+  margin-bottom: -5px;
+}
+
+iframe{
+  width: 90%;
+  margin: 3.5rem;
+  height: 20rem;
+  border-radius: 10px;
+}
+.links{
+  font-size: 20px;
+}
+.links i{
+  margin: 3rem 1rem 1rem 0rem;
+}
